@@ -6,6 +6,7 @@
 
 header {
   height: 50px;
+  width: 100%;
   background-color: #ff9a4b;
 }
 
@@ -61,6 +62,7 @@ main {
 }
 footer {
   height: 50px;
+  width: 100%;
   background-color: #aaa;
 }
 
@@ -71,12 +73,7 @@ footer {
   }
 
   .step-box {
-    margin: 20px;
     width: 90%;
-  }
-
-  .step-image1 {
-    background-size: cover;
-    background-position: center;
+    margin: 20px;
   }
 }
